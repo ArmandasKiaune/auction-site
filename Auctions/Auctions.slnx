@@ -1,5 +1,5 @@
 <Solution>
-  <Project Path="Auctions.core/Auctions.core.csproj" />
+  <Project Path="Auctions.core/Auctions.Core.csproj" />
   <Project Path="Auctions.Tests/Auctions.Tests.csproj" />
   <Project Path="Auctions.Web/Auctions.Web.csproj" />
 </Solution>
